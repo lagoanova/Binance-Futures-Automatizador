@@ -36,11 +36,9 @@ No exemplo a seguir, do grupo https://t.me/sinaisfortesfutures, o bot irá abrir
 
 ## Canais Integrados
 
-  
+- 🏆 BINANCE FUTURES / Sinais Fortes Brasil https://t.me/sinaisfortesfutures
 
-#### 🏆 BINANCE FUTURES / Sinais Fortes Brasil https://t.me/sinaisfortesfutures
-
-#### Binance Futures Sinais Grátis 🤑 https://t.me/BinanceFuturesSinaisGratuitos
+- 🤑 Binance Futures Sinais Grátis https://t.me/BinanceFuturesSinaisGratuitos
 
   
   
