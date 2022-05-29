@@ -19,7 +19,7 @@ No exemplo a seguir, do grupo https://t.me/sinaisfortesfutures, o bot irá abrir
 
 ![image](https://user-images.githubusercontent.com/54438080/170877075-17a149ed-8b23-45b9-a65c-b9eb809a649d.png)
 
-**O grupo envia o sinal**
+**O grupo de sinais que você participa envia o sinal**
   
 
 ![image](https://user-images.githubusercontent.com/54438080/170877094-288ed57c-15e8-40b8-981b-bedda9748340.png)
