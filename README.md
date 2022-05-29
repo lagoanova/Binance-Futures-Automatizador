@@ -35,6 +35,7 @@ No exemplo a seguir, do grupo https://t.me/sinaisfortesfutures, o bot irá abrir
   
 
 ## Canais Integrados
+Canais que já estão automatizados com o robô de entradas de sinais:
 
 - 🏆 BINANCE FUTURES / Sinais Fortes Brasil https://t.me/sinaisfortesfutures
 
