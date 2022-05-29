@@ -19,12 +19,12 @@ No exemplo a seguir, do grupo https://t.me/sinaisfortesfutures, o bot irá abrir
 
 ![image](https://user-images.githubusercontent.com/54438080/170877075-17a149ed-8b23-45b9-a65c-b9eb809a649d.png)
 
->>> **O grupo de sinais que você participa envia o sinal**
+> **O grupo de sinais que você participa envia o sinal**
   
 
 ![image](https://user-images.githubusercontent.com/54438080/170877094-288ed57c-15e8-40b8-981b-bedda9748340.png)
 
->>> **O robô lê o sinal do grupo e abre a ordem com o valor do *Ponto de Entrada*, o *Alvo* definido pelo usuário, e o *Stop Loss***
+> **O robô lê o sinal do grupo e abre a ordem com o valor do *Ponto de Entrada*, o *Alvo* definido pelo usuário, e o *Stop Loss***
   
   
 
