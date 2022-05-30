@@ -36,17 +36,23 @@ No exemplo a seguir, do grupo https://t.me/sinaisfortesfutures, o bot irá abrir
 ## Canais Integrados
 Canais que já estão automatizados com o robô de entradas de sinais:
 
-- 🏆 BINANCE FUTURES / Sinais Fortes Brasil https://t.me/sinaisfortesfutures
+- (FREE) 🏆 BINANCE FUTURES / Sinais Fortes Brasil https://t.me/sinaisfortesfutures
 
-- 🤑 Binance Futures Sinais Grátis https://t.me/BinanceFuturesSinaisGratuitos
+- (FREE) 🤑 Binance Futures Sinais Grátis https://t.me/BinanceFuturesSinaisGratuitos 
 
+Legenda: FREE (Grupo gratuíto); VIP (Grupo pago)
+
+Observação: nós não somos responsáveis pelos grupos. Apenas criamos uma ferramenta que executa as ordens automaticamente, quando o sinal é recebido no grupo.
 
 ## Como adquirir o robô
+Em breve o link para assinar o bot.
 
 
 ## Integre seu canal de sinais
 
-Tem um canal de sinais de criptomoedas na Binance e gostaria de automatizar as entradas dos seus clientes? Entre em contato pelo email coinbookbrasil@gmail.com ou https://t.me/coinbookbrasil
+Tem um canal de sinais de criptomoedas na Binance e gostaria de automatizar as entradas dos seus clientes? 
+
+Entre em contato pelo email coinbookbrasil@gmail.com ou https://t.me/coinbookbrasil
 
   
   
