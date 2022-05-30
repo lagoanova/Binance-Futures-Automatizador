@@ -5,6 +5,13 @@ Binance Futures Signals é um bot que pega os sinais de compra/venda enviados no
 
 ## Informações iniciais
 
+![image](https://user-images.githubusercontent.com/54438080/170999222-df6f5475-5e5b-410e-a708-1737b6b32f99.png)
+
+![image](https://user-images.githubusercontent.com/54438080/170999260-f06115e9-1762-4047-b9a1-6fd1daddaadf.png)
+
+![image](https://user-images.githubusercontent.com/54438080/170999277-36f224f6-a4ed-4d5b-b81c-c2fbf3d09281.png)
+
+
 Binance Futures Signals é um bot que irá comprar sempre que uma notificação de compra chegar nos canais de sinais de criptomoedas listados abaixo.
 
 ## Como o bot funciona
@@ -23,6 +30,7 @@ No exemplo a seguir, do grupo https://t.me/sinaisfortesfutures, o bot irá abrir
   
 
 ![image](https://user-images.githubusercontent.com/54438080/170876968-cc1ee35b-9b9f-424f-82bc-790336bf705f.png)
+
 
 
 ## Canais Integrados
