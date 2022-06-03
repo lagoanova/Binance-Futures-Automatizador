@@ -7,7 +7,7 @@ Binance Futures Signals é um bot que pega os sinais de compra/venda enviados no
 
 ![image](https://user-images.githubusercontent.com/54438080/170999222-df6f5475-5e5b-410e-a708-1737b6b32f99.png)
 
-![image](https://user-images.githubusercontent.com/54438080/170999260-f06115e9-1762-4047-b9a1-6fd1daddaadf.png)
+![image](https://user-images.githubusercontent.com/54438080/171904754-1bed3a38-846c-4064-acdf-9d7fc6923edc.png)
 
 ![image](https://user-images.githubusercontent.com/54438080/170999277-36f224f6-a4ed-4d5b-b81c-c2fbf3d09281.png)
 
