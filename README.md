@@ -59,7 +59,7 @@ Entre em contato pelo email coinbookbrasil@gmail.com ou https://t.me/coinbookbra
 
 ## Isenção de responsabilidade
 
-⚠️ Uso por conta e risco ⚠️. Investir em criptomoeda é arriscado. Este não é um conselho financeiro.
+⚠️ Uso por conta e risco ⚠️. Investir em criptomoedas é arriscado. Não é recomendação de investimento.
 
   
 
@@ -68,6 +68,20 @@ Se você tiver um problema, abra uma issue no repositório do Git, e não publiq
   
 
 A responsabilidade pelos sinais é dos canais listados acima. O bot apenas lê as informações dos sinais e abre a ordem na Binance.
+
+Nenhum proprietário ou contribuidor é responsável por qualquer coisa feita com este bot. Você o usa por sua própria conta e risco. Não há garantias expressas ou implícitas. Você assume toda a responsabilidade e obrigação.
+
+AVISO LEGAL:
+
+Todas as estratégias e investimentos envolvem risco de perda. Você nunca deve negociar com dinheiro que não pode ou tem medo de perder.
+
+Use por sua conta e risco!
+
+VOCÊ É RESPONSÁVEL POR QUAISQUER PERDAS QUE POSSAM SER RESULTANTES DO USO DO SINAIS DOS GRUPOS!
+
+Se você não entende como o bot funciona, não deve usá-lo. Você é sempre bem-vindo para pedir ajuda ou obter mais informações sobre como funciona exatamente.
+
+Não é recomendação de investimento!
 
   
 
