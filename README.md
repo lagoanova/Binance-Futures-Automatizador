@@ -38,7 +38,7 @@ Canais que já estão automatizados com o robô de entradas de sinais:
 
 - (FREE) 🏆 BINANCE FUTURES / Sinais Fortes Brasil https://t.me/sinaisfortesfutures
 
-- (FREE) 🤑 Binance Futures Sinais Grátis https://t.me/BinanceFuturesSinaisGratuitos 
+- (FREE) 🤑 Binance Futures Sinais Grátis https://t.me/BinanceFuturesSinaisGratis 
 
 Legenda: FREE (Grupo gratuíto); VIP (Grupo pago)
 
@@ -52,7 +52,7 @@ Em breve o link para assinar o bot.
 
 Tem um canal de sinais de criptomoedas na Binance e gostaria de automatizar as entradas dos seus clientes? 
 
-Entre em contato pelo email coinbookbrasil@gmail.com ou https://t.me/coinbookbrasil
+Entre em contato pelo email coinbookbrasil@gmail.com
 
   
   
