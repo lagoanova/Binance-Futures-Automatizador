@@ -45,7 +45,8 @@ Legenda: FREE (Grupo gratuíto); VIP (Grupo pago)
 Observação: nós não somos responsáveis pelos grupos. Apenas criamos uma ferramenta que executa as ordens automaticamente, quando o sinal é recebido no grupo.
 
 ## Como adquirir o robô
-Em breve o link para assinar o bot.
+
+Clique no link para assinar: https://go.hotmart.com/X72541809G
 
 
 ## Integre seu canal de sinais
