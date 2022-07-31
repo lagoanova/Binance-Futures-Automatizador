@@ -14,7 +14,7 @@ Binance Futures Signals é um bot que irá comprar sempre que uma notificação 
 
 ## Como o bot funciona
 
-No exemplo a seguir, do grupo https://t.me/sinaisfortesfutures, o bot irá abrir a ordem de compra (long ou short) de acordo com os dados enviados no sinal:
+No exemplo a seguir, do grupo https://t.me/BinanceFuturesSinaisGratis, o bot irá abrir a ordem de compra (long ou short) de acordo com os dados enviados no sinal:
 
 ![image](https://user-images.githubusercontent.com/54438080/170877075-17a149ed-8b23-45b9-a65c-b9eb809a649d.png)
 
@@ -34,8 +34,6 @@ No exemplo a seguir, do grupo https://t.me/sinaisfortesfutures, o bot irá abrir
 ## Canais Integrados
 Canais que já estão automatizados com o robô de entradas de sinais:
 
-- (FREE) 🏆 BINANCE FUTURES / Sinais Fortes Brasil https://t.me/sinaisfortesfutures
-
 - (FREE) 🤑 Binance Futures Sinais Grátis https://t.me/BinanceFuturesSinaisGratis 
 
 Legenda: FREE (Grupo gratuíto); VIP (Grupo pago)
@@ -51,7 +49,7 @@ Clique no link para assinar: https://go.hotmart.com/X72541809G
 
 Tem um canal de sinais de criptomoedas na Binance e gostaria de automatizar as entradas dos seus clientes? 
 
-Entre em contato pelo email coinbookbrasil@gmail.com
+Entre em contato pelo email coinbookbrasil@gmail.com ou converse com CoinBook Software no WhatsApp: https://wa.me/message/YSGENNTD3353F1
 
   
   
