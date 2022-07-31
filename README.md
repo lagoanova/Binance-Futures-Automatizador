@@ -16,7 +16,7 @@ Binance Futures Signals é um bot que irá comprar sempre que uma notificação 
 
 No exemplo a seguir, do grupo https://t.me/BinanceFuturesSinaisGratis, o bot irá abrir a ordem de compra (long ou short) de acordo com os dados enviados no sinal:
 
-![image](https://user-images.githubusercontent.com/54438080/170877075-17a149ed-8b23-45b9-a65c-b9eb809a649d.png)
+![image](https://user-images.githubusercontent.com/54438080/182029447-552d78d5-e23b-49d0-a292-7426d2a05c48.png)
 
 > **O grupo de sinais que você participa envia o sinal**
   
