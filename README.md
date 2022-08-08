@@ -45,6 +45,10 @@ Observação: nós não somos responsáveis pelos grupos. Apenas criamos uma fer
 Clique no link para assinar: https://go.hotmart.com/X72541809G
 
 
+## Acompanhe ao vivo as entradas do robô
+Link YouTube: https://www.youtube.com/watch?v=tOftjDmhoAY&ab_channel=CoinBookBrasil
+
+
 ## Integre seu canal de sinais
 
 Tem um canal de sinais de criptomoedas na Binance e gostaria de automatizar as entradas dos seus clientes? 
