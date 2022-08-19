@@ -42,7 +42,8 @@ Observação: nós não somos responsáveis pelos grupos. Apenas criamos uma fer
 
 ## Como adquirir o robô
 
-Clique no link para assinar: https://go.hotmart.com/X72541809G
+- Plano básico (sem trailing stop): https://bit.ly/CoinBookPlanoBasico
+- Plano Premium (com trailing stop): https://bit.ly/CoinBookPlanoPremium
 
 
 ## Acompanhe ao vivo as entradas do robô
