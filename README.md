@@ -42,8 +42,7 @@ Observação: nós não somos responsáveis pelos grupos. Apenas criamos uma fer
 
 ## Como adquirir o robô
 
-- Plano básico (sem trailing stop): https://bit.ly/CoinBookPlanoBasico
-- Plano Premium (com trailing stop): https://bit.ly/CoinBookPlanoPremium
+- Adquira através do link https://lastlink.com/p/C7E67207C
 
 
 ## Acompanhe ao vivo as entradas do robô
