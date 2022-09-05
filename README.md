@@ -42,7 +42,7 @@ Observação: nós não somos responsáveis pelos grupos. Apenas criamos uma fer
 
 ## Como adquirir o robô
 
-- Adquira através do link https://lastlink.com/p/C7E67207C
+- Adquira através do link https://go.hotmart.com/N74518609K
 
 
 ## Acompanhe ao vivo as entradas do robô
